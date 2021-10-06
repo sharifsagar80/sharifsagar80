@@ -1,4 +1,4 @@
-- 👋 Hi, I’m A S M SHARIFUZZAMAN SAGAR
+- 👋 Hi, I’m A S M Sharifuzzaman Sagar
 - 👀 I’m interested in SLAM, Haptic interaction, Bayesian deep learning and Sensor system
 - 🌱 I’m currently learning Bayesian deep learning and Indoor localization
 - 💞️ I’m looking to collaborate on any topics related to SLAM, Haptic interaction, Bayesian deep learning and Sensor system
